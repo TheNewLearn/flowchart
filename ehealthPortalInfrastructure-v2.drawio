@@ -1,16 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2021-05-17T05:48:24.331Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="x05Rf8UKJuyap-PcE_sL" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-17T06:07:02.390Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="cMKGo45i2P0IxXRI9e7v" version="14.6.13" type="github">
   <diagram id="HZI064cYkGDwkJEJr3Qx" name="Page-1">
     <mxGraphModel dx="1796" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Or8a-sF6UrkhiUAnf4d3-2" value="eHealth Portal Infrastructure " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="270" y="30" width="210" height="20" as="geometry" />
+        <mxCell id="Or8a-sF6UrkhiUAnf4d3-2" value="System Architecture Diagram" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="205" y="30" width="210" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Or8a-sF6UrkhiUAnf4d3-3" value="eHealth Database" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" parent="1" vertex="1">
           <mxGeometry x="130" y="66" width="60" height="72" as="geometry" />
         </mxCell>
-        <mxCell id="Or8a-sF6UrkhiUAnf4d3-4" value="Cloud Server and infrse server" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Or8a-sF6UrkhiUAnf4d3-4" value="Cloud Server and internal server" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="250" y="70" width="120" height="72" as="geometry" />
         </mxCell>
         <mxCell id="Or8a-sF6UrkhiUAnf4d3-5" value="Backup Server" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
@@ -37,8 +37,8 @@
             <mxPoint x="570" y="86" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Or8a-sF6UrkhiUAnf4d3-11" value="eHealth Portal Platform" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="101" y="200" width="400" height="60" as="geometry" />
+        <mxCell id="Or8a-sF6UrkhiUAnf4d3-11" value="chinese medicine stroke prevention and post- stroke plaitform" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="101" y="200" width="400" height="140" as="geometry" />
         </mxCell>
         <mxCell id="Or8a-sF6UrkhiUAnf4d3-14" value="" style="endArrow=none;html=1;entryX=0.55;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.538;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="Or8a-sF6UrkhiUAnf4d3-11" target="Or8a-sF6UrkhiUAnf4d3-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -47,38 +47,27 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Or8a-sF6UrkhiUAnf4d3-15" value="Well Being Survey Portal" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="101" y="260" width="80" height="80" as="geometry" />
+        <mxCell id="Or8a-sF6UrkhiUAnf4d3-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Or8a-sF6UrkhiUAnf4d3-20" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="141" y="340" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="Or8a-sF6UrkhiUAnf4d3-16" value="Telecare Portal" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="181" y="260" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="Or8a-sF6UrkhiUAnf4d3-17" value="Group Program Portal" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="261" y="260" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="Or8a-sF6UrkhiUAnf4d3-18" value="Home Visit Portal" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="341" y="260" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="Or8a-sF6UrkhiUAnf4d3-19" value="&lt;div&gt;Health Record Portal&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="421" y="260" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="Or8a-sF6UrkhiUAnf4d3-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Or8a-sF6UrkhiUAnf4d3-20" target="Or8a-sF6UrkhiUAnf4d3-15" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Or8a-sF6UrkhiUAnf4d3-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Or8a-sF6UrkhiUAnf4d3-20" target="Or8a-sF6UrkhiUAnf4d3-16" edge="1">
+        <mxCell id="Or8a-sF6UrkhiUAnf4d3-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Or8a-sF6UrkhiUAnf4d3-20" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="60" y="370" />
               <mxPoint x="221" y="370" />
             </Array>
+            <mxPoint x="221" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Or8a-sF6UrkhiUAnf4d3-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="Or8a-sF6UrkhiUAnf4d3-20" target="Or8a-sF6UrkhiUAnf4d3-17" edge="1">
+        <mxCell id="Or8a-sF6UrkhiUAnf4d3-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="Or8a-sF6UrkhiUAnf4d3-20" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="60" y="370" />
               <mxPoint x="301" y="370" />
             </Array>
+            <mxPoint x="301" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Or8a-sF6UrkhiUAnf4d3-20" value="Individual" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -87,39 +76,45 @@
         <mxCell id="Or8a-sF6UrkhiUAnf4d3-21" value="Doctor" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="130" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Or8a-sF6UrkhiUAnf4d3-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.613;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Or8a-sF6UrkhiUAnf4d3-22" target="Or8a-sF6UrkhiUAnf4d3-15" edge="1">
+        <mxCell id="Or8a-sF6UrkhiUAnf4d3-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.613;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Or8a-sF6UrkhiUAnf4d3-22" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="321" y="380" />
               <mxPoint x="150" y="380" />
             </Array>
+            <mxPoint x="150.03999999999996" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Or8a-sF6UrkhiUAnf4d3-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="1" source="Or8a-sF6UrkhiUAnf4d3-22" target="Or8a-sF6UrkhiUAnf4d3-16" edge="1">
+        <mxCell id="Or8a-sF6UrkhiUAnf4d3-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="1" source="Or8a-sF6UrkhiUAnf4d3-22" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="321" y="380" />
               <mxPoint x="201" y="380" />
             </Array>
+            <mxPoint x="201" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Or8a-sF6UrkhiUAnf4d3-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="1" source="Or8a-sF6UrkhiUAnf4d3-22" target="Or8a-sF6UrkhiUAnf4d3-17" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Or8a-sF6UrkhiUAnf4d3-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="1" source="Or8a-sF6UrkhiUAnf4d3-22" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="321" y="340" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="Or8a-sF6UrkhiUAnf4d3-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="Or8a-sF6UrkhiUAnf4d3-22" target="Or8a-sF6UrkhiUAnf4d3-18" edge="1">
+        <mxCell id="Or8a-sF6UrkhiUAnf4d3-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="Or8a-sF6UrkhiUAnf4d3-22" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="321" y="380" />
               <mxPoint x="381" y="380" />
             </Array>
+            <mxPoint x="381" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Or8a-sF6UrkhiUAnf4d3-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="Or8a-sF6UrkhiUAnf4d3-22" target="Or8a-sF6UrkhiUAnf4d3-19" edge="1">
+        <mxCell id="Or8a-sF6UrkhiUAnf4d3-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="Or8a-sF6UrkhiUAnf4d3-22" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="321" y="380" />
               <mxPoint x="461" y="380" />
             </Array>
+            <mxPoint x="461" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Or8a-sF6UrkhiUAnf4d3-22" value="System Administration" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -131,7 +126,7 @@
         <mxCell id="Or8a-sF6UrkhiUAnf4d3-24" value="&lt;u&gt;Cloud Based Environment&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="20" y="510" width="190" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Or8a-sF6UrkhiUAnf4d3-25" value="&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;Linux CentOS v8&lt;/li&gt;&lt;li&gt;Apache Web Server v2.4&lt;/li&gt;&lt;li&gt;PHP v7&lt;/li&gt;&lt;li&gt;mySQL database v8.0&lt;/li&gt;&lt;li&gt;node.js v11&lt;/li&gt;&lt;li&gt;Ionic v5&lt;/li&gt;&lt;li&gt;Angular v8&lt;/li&gt;&lt;li&gt;React v16.9&lt;/li&gt;&lt;li&gt;MongoDB&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="Or8a-sF6UrkhiUAnf4d3-25" value="&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;Linux CentOS v8&lt;/li&gt;&lt;li&gt;Apache Web Server v2.4&lt;/li&gt;&lt;li&gt;PHP v7&lt;/li&gt;&lt;li&gt;mySQL database v8.0&lt;/li&gt;&lt;li&gt;node.js v11&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;text-align: center&quot;&gt;React v16.9&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;text-align: center&quot;&gt;MYSQL&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-10" y="530" width="220" height="180" as="geometry" />
         </mxCell>
         <mxCell id="Or8a-sF6UrkhiUAnf4d3-28" value="&lt;div align=&quot;left&quot;&gt;&lt;u&gt;User Client&lt;/u&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;" parent="1" vertex="1">
